@@ -1,0 +1,3 @@
+Ambos os participantes irão adicionar conteúdo a qualquer um dos arquivos
+que eles criaram. Em seguida, eles farão o upload das alterações para o
+repositório remoto.
